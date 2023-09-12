@@ -5,3 +5,5 @@ Spatially-embedded recurrent spiking neural networks (seRSNNs) are newly-develop
 The folder basemodels contains implementations of standard spiking neural networks and recurrent spiking neural networks, originally adapted from the snnTorch repository (snntorch.readthedocs.io/en/latest/) that formed the basis of later seRSNNs.
 
 The folder finalscripts contains Python scripts for L1-regularized and spatially-regularized networks.
+
+This work was presented at CCNeuro 2023 (https://2023.ccneuro.org/view_paper.php?PaperNum=1139).
